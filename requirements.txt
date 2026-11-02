@@ -1,0 +1,13 @@
+Flask
+flask-cors
+requests
+httpx
+urllib3
+pycryptodome
+PyJWT
+protobuf
+google
+googleapis-common-protos
+Pillow
+aiohttp
+cachetools
